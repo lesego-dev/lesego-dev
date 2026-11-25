@@ -115,4 +115,3 @@ I am interested in opportunities and collaborations involving Data Engineering, 
 
 ---
 
-*Building solutions through data, software engineering and artificial intelligence.*
